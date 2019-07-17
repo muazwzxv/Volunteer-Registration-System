@@ -1,0 +1,9 @@
+Bug Fix 
+1) change data structure used for student from LinkedList to Queue *Done*
+2) Student display (does not print the mostrecent application at the top) || USE STACK *Done*
+3) Read file for volunteer is not working *Stuck at to do 3 and going foward* **DONE**
+
+To do 
+
+To learn
+1) Study merge sort *Done*

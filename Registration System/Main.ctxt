@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ clearScreen()
+comment3.params=in
+comment3.target=int\ HomeScreen(java.util.Scanner)
+comment4.params=in
+comment4.target=int\ studentScreen(java.util.Scanner)
+comment5.params=in\ inDigit
+comment5.target=Student\ studentRegister(java.util.Scanner,\ java.util.Scanner)
+comment6.params=data
+comment6.target=void\ writeStudentRegistration(Student)
+comment7.params=inDigit
+comment7.target=int\ volunteerScreen(java.util.Scanner)
+numComments=8
